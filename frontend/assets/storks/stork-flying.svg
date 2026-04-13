@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Stork body -->
+    <ellipse cx="100" cy="50" rx="15" ry="20" fill="#1a1a1a"/>
+    <!-- Neck -->
+    <line x1="100" y1="30" x2="100" y2="10" stroke="#1a1a1a" stroke-width="3"/>
+    <!-- Head -->
+    <circle cx="100" cy="8" r="4" fill="#1a1a1a"/>
+    <!-- Beak -->
+    <line x1="104" y1="8" x2="115" y2="8" stroke="#1a1a1a" stroke-width="2"/>
+    <!-- Wing -->
+    <path d="M 90 50 Q 70 40 75 60" stroke="#1a1a1a" stroke-width="3" fill="none"/>
+    <!-- Legs -->
+    <line x1="95" y1="70" x2="95" y2="90" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="105" y1="70" x2="105" y2="90" stroke="#1a1a1a" stroke-width="2"/>
+    <!-- Message envelope -->
+    <rect x="110" y="45" width="20" height="15" fill="#1a1a1a" stroke="#1a1a1a"/>
+    <line x1="110" y1="45" x2="120" y2="52.5" stroke="#ffffff" stroke-width="1"/>
+    <line x1="130" y1="45" x2="120" y2="52.5" stroke="#ffffff" stroke-width="1"/>
+  </svg>
